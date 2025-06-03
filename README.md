@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahad Ali</h1>
 <h3 align="center">Cloud Genetic AI Engineer & Angentic AI</h3>
 
-- 🌱 I’m currently learning **@ Presidential Initiative for Artificial Intelligence and Computing**
+<image align=""right" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+
+- 🌱 I’m currently learning **@ Presidential Initiative for Artificial Intelligence and Computing(PIAIC)**
 
 - 📫 How to reach me **ahadujjan23@gmail.com**
 
